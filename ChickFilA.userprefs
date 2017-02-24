@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{7B34CAB4-85FC-490E-9ABC-3BD63DEA0BEF}|Unit Tests">
   <MonoDevelop.Ide.Workbench ActiveDocument="ChickFilA/Tests.cs">
     <Files>
-      <File FileName="ChickFilA/Tests.cs" Line="58" Column="30" />
+      <File FileName="ChickFilA/Tests.cs" Line="28" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,4 +10,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ChickFilA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
 </Properties>
