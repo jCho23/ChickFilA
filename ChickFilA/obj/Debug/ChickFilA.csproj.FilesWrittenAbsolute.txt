@@ -1,7 +1,0 @@
-/Users/junecho/Projects/ChickFilA/ChickFilA/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/junecho/Projects/ChickFilA/ChickFilA/bin/Debug/ChickFilA.dll.mdb
-/Users/junecho/Projects/ChickFilA/ChickFilA/bin/Debug/ChickFilA.dll
-/Users/junecho/Projects/ChickFilA/ChickFilA/obj/Debug/ChickFilA.dll
-/Users/junecho/Projects/ChickFilA/ChickFilA/obj/Debug/ChickFilA.dll.mdb
-/Users/junecho/Projects/ChickFilA/ChickFilA/bin/Debug/nunit.framework.dll
-/Users/junecho/Projects/ChickFilA/ChickFilA/bin/Debug/Xamarin.UITest.dll
